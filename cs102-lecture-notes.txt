@@ -4,3 +4,15 @@ git add [file]: add a file as it looks now to your next commit (stage)
 git commit -m “[descriptive message]”: commit your staged content as a new commit snapshot.
 git push [alias] [branch]: Transmit local branch commits to the remote repository branch
 git pull: fetch and merge any commits from the tracking remote branch
+
+What we learned in today's class?
+
+We learned about basic git commands like:
+git status, git add ., git commit, git push, git log, got branch etc..
+GitHub is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+
+
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+
