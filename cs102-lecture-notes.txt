@@ -1,3 +1,5 @@
+Name: Krishnaveni  Unnikrishnan
+Roll no: 2006321
 Basic Git Commands:
 git status: show modified files in working directory, staged for your next commit
 git add [file]: add a file as it looks now to your next commit (stage)
